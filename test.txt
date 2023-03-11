@@ -1,1 +1,2 @@
-hi! my  test!
+hi! my  test! 
+new text in VS redactor
